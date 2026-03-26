@@ -55,7 +55,7 @@ The project scrapes all 1,000 books across 50 pages, visits each book's individu
 **Locally:**
 ```bash
 pip install requests beautifulsoup4 pandas matplotlib seaborn
-jupyter notebook web-scraping-beautifulsoup-books.ipynb
+jupyter notebook web_scraping_beautifulsoup_books.ipynb
 ```
 
 
